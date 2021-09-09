@@ -43,7 +43,6 @@ body {
 @media (orientation: landscape) {
   body {
     display: flex;
-    align-items: stretch;
   }
 }
 
